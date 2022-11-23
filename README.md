@@ -12,15 +12,3 @@
 
 ![Screenshot 2022-11-23 120217](https://user-images.githubusercontent.com/94905513/203485137-1d46f434-79bf-4d90-9eb5-90a3473753c8.jpg)
 
-
-Features
-Responsive Instagram UI
-Email & Password Authentication
-Share Posts with Caption
-Display Posts with Caption
-Like & Comment on Posts
-Search Users
-Follow Users
-Display User Posts, Followers & Following
-EVERYTHING REAL TIME
-Sign Out
