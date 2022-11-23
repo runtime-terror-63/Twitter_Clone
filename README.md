@@ -63,4 +63,5 @@ Cover photos
 
 and much more!
 
+Navigate to http://localhost:3000/home
 
