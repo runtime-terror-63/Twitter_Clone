@@ -1,4 +1,4 @@
-Twitter clone app with social github login authentication using Node.js, Socket.IO and MongoDB
+## Twitter clone app with social github login authentication using Node.js, Socket.IO and MongoDB
 
 ![Screenshot 2022-11-23 115608](https://user-images.githubusercontent.com/94905513/203485110-ea35dc38-5d6a-4e8f-ae35-892b9a98d855.jpg)
 
@@ -12,24 +12,7 @@ Twitter clone app with social github login authentication using Node.js, Socket.
 
 ![Screenshot 2022-11-23 120217](https://user-images.githubusercontent.com/94905513/203485137-1d46f434-79bf-4d90-9eb5-90a3473753c8.jpg)
 
-Used Technologies:
-How to create a social network just like Twitter
-Node JS
-Socket IO
-JavaScript
-MongoDB
-Mongoose
-HTML
-CSS
 
-Features:
-Tweets
-Likes, comments and retweets
-Profile pages
-Following and followers support
-Instant messaging in real time
-Group chat support
-Profile pictures
-Cover photos
-and much more!
+
+
 
