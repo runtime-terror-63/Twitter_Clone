@@ -1,4 +1,6 @@
-## Twitter clone app with social github login authentication using Node.js, Socket.IO and MongoDB
+# Twitter Clone Website with GitHub Login Authentication
+
+This is a social network application similar to Twitter, built using Node.js, Socket.IO, and MongoDB. Users can register and log in using their GitHub accounts, create tweets, follow other users, like and comment on tweets, and engage in real-time messaging.
 
 # Login
 
@@ -23,45 +25,38 @@
 
 
 
-## Used Technologies:
+## Technologies Used:
+
+- Node.js
+- Socket.IO
+- MongoDB
+- Mongoose
+- Passport.js
+- HTML
+- CSS
+
+## Features:
+
+- User Authentication: Users can register and login using their GitHub accounts.
+- Tweets: Users can create tweets, like, comment, and retweet.
+- Profile Pages: Users have personalized profile pages with profile pictures and cover photos.
+- Following and Followers: Users can follow other users and see their followers.
+- Real-time Messaging: Instant messaging and group chat support using Socket.IO.
+- Notifications: Users receive notifications for likes, comments, and new followers.
+- Search: Users can search for other users and tweets.
+
+## Setup Instructions:
+
+1. Clone the repository to your local machine.
+2. Install dependencies using `npm install`.
+3. Set up environment variables for GitHub OAuth credentials, MongoDB connection string, etc.
+4. Start the server using `npm start`.
+5. Access the application in your web browser at the specified URL.
 
 
-How to create a social network just like Twitter
-
-Node JS
-
-Socket IO
-
-JavaScript
-
-MongoDB
-
-Mongoose
-
-HTML
-
-CSS
 
 
-## Features
+#Thank you and follow much more!
 
-Tweets
 
-Likes, comments and retweets
-
-Profile pages
-
-Following and followers support
-
-Instant messaging in real time
-
-Group chat support
-
-Profile pictures
-
-Cover photos
-
-and much more!
-
-Navigate to http://localhost:3003/home
 
